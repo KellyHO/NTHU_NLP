@@ -1,0 +1,321 @@
+Error: strang
+Candidates:
+sprang
+strange
+strong
+strand
+shrank
+stand
+string
+strings
+spring
+strands
+Correction: strange
+I felt very strang ---> i felt very strange
+Hits: 1
+
+
+Error: brake
+Candidates:
+brake
+barg
+broke
+bake
+brace
+drake
+burke
+bragg
+break
+trade
+Correction: break
+at brake time ---> at break time
+Hits: 2
+
+Error: brack
+Candidates:
+back
+black
+backs
+track
+tracks
+bank
+wrack
+brick
+branch
+bricks
+Correction: back
+when the brack was finished ---> when the back was finished
+Hits: 2
+
+Error: weanter
+Candidates:
+wanted
+walter
+webster
+water
+weaker
+wander
+winter
+waiter
+weather
+decanter
+Correction: water
+in the weanter when it was snowing ---> in the water when it was snowing
+Hits: 2
+
+Error: gost
+Candidates:
+most
+get
+got
+ghost
+lot
+pot
+lost
+mot
+post
+so
+Correction: most
+I thought it was a gost ---> i thought it was a most
+Hits: 2
+
+
+Error: expect
+Candidates:
+expect
+except
+expects
+expert
+extent
+erect
+exert
+elect
+aspect
+effect
+Correction: except
+everything expect the houses ---> everything except the houses
+Hits: 3
+
+Error: steped
+Candidates:
+spee
+stepped
+stopped
+seemed
+steed
+stephen
+steppes
+steps
+stemmed
+stamped
+Correction: stepped
+when I first steped ---> when i first stepped
+Hits: 4
+
+Error: exclation
+Candidates:
+exaltation
+exultation
+excavation
+exception
+exudation
+expiation
+exclusion
+emulation
+elation
+epilation
+Correction: exception
+I was on an exclation ---> i was on an exception
+Hits: 4
+
+Error: noicey
+Candidates:
+noticed
+notice
+novices
+notices
+voices
+voice
+nice
+novice
+nicely
+noisy
+Correction: noticed
+I noicey that I was on this thing ---> i noticed that i was on this thing
+Hits: 5
+
+Error: fance
+Candidates:
+france
+face
+fancy
+dance
+fiance
+lance
+farce
+fence
+lane
+ranch
+Correction: face
+through the fance ---> through the face
+Hits: 5
+
+Error: kille
+Candidates:
+killed
+kill
+hills
+kills
+killer
+hill
+till
+title
+tilde
+pills
+Correction: killed
+the hunters kille them ---> the hunters killed them
+Hits: 5
+
+Error: nerrow
+Candidates:
+narrow
+terror
+sorrow
+negro
+narrows
+neuro
+marrow
+borrow
+furrow
+burrow
+Correction: narrow
+they kill birds with their nerrow ---> they kill birds with their narrow
+Hits: 5
+
+Error: depe
+Candidates:
+dee
+kee
+wee
+pee
+depth
+were
+edg
+dee
+see
+kept
+Correction: deep
+make a depe hole ---> make a deep hole
+Hits: 6
+
+Error: gardon
+Candidates:
+pardon
+garden
+garcon
+gordon
+carbon
+gascon
+carron
+pardons
+gardens
+aaron
+Correction: garden
+to tidy up his gardon ---> to tidy up his garden
+Hits: 7
+
+Error: belu
+Candidates:
+bell
+blue
+been
+below
+well
+belt
+fell
+felt
+belts
+begun
+Correction: below
+the wind belu the leaves ---> the wind below the leaves
+Hits: 7
+
+Error: was
+Candidates:
+was
+ways
+has
+war
+wasn
+way
+had
+wax
+awl
+wash
+Correction: was
+Mr J. was very angray ---> mr j. was very angray
+Hits: 7
+
+Error: leavs
+Candidates:
+leave
+leaves
+leads
+leaps
+means
+laws
+lead
+heavy
+weave
+beams
+Correction: leaves
+garden full of leavs ---> garden full of leaves
+Hits: 8
+
+Error: manger
+Candidates:
+manager
+danger
+manger
+managed
+matter
+master
+mangled
+manur
+malgr
+banker
+Correction: manager
+talk to the manger ---> talk to the manager
+Hits: 9
+
+Error: aero
+Candidates:
+her
+hero
+also
+sero
+negro
+azo
+neuro
+were
+avert
+arrow
+Correction: hero
+they throw a aero ---> they throw a hero
+Hits: 9
+
+Error: ansion
+Candidates:
+natio
+uniso
+action
+union
+lesion
+fusion
+assign
+anton
+arson
+angio
+Correction: action
+an ansion method of hunting ---> an action method of hunting
+Hits: 9

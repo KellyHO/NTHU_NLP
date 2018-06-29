@@ -1,0 +1,8 @@
+
+all the commune members , young and old , went out to hervest the crops .
+GO_OUT	V	went out	9	10
+GO_OUT	V to v	went out to hervest	9	12
+HERVEST	V n	hervest the crops	12	14
+
+as soon as they finish the new businese administration building , our offices are going to be moved .
+FINISH	V n	finish the new businese administration building	4	9

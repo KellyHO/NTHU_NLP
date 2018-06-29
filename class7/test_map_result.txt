@@ -1,0 +1,11 @@
+new_ones 1	Incorporated in this revolt was both the resurrection of classical principles and the development of new ones that appear to be incompatible .
+ones_new -1	Incorporated in this revolt was both the resurrection of classical principles and the development of new ones that appear to be incompatible .
+litre_per -1	With the low volume of piston-powered traffic would expect fuel to be expensive - and it is : 70-75 pence per litre .
+alphabetical_order 1	LIFESPAN will always present the list of Issues in ascending alphabetical order of Issue identifier .
+order_alphabetical -1	LIFESPAN will always present the list of Issues in ascending alphabetical order of Issue identifier .
+popular_vote 1	The Labour share of the popular vote had fallen from 50.4 per cent in 1945 to 49.2 per cent , but the party had lost nearly 100 seats .
+vote_popular -1	The Labour share of the popular vote had fallen from 50.4 per cent in 1945 to 49.2 per cent , but the party had lost nearly 100 seats .
+social_scientists 1	The fact that for 30 years social scientists have struggled to produce a theory of interaction tells us just how it is .
+scientists_social -1	The fact that for 30 years social scientists have struggled to produce a theory of interaction tells us just how it is .
+tells_us 1	The fact that for 30 years social scientists have struggled to produce a theory of interaction tells us just how it is .
+us_tells -1	The fact that for 30 years social scientists have struggled to produce a theory of interaction tells us just how it is .

@@ -1,0 +1,21 @@
+a-posteriori-adj error-n	71
+a-priori-adj assumption-n	22
+a-priori-adj information-n	111
+a-priori-adj knowledge-n	330
+a-priori-adj model-n	23
+a-synuclein-n be-v	29
+ab-initio-adj method-n	20
+abadi-rogaway-adj logic-n	30
+abandonment-n option-n	21
+abandonment-n rate-n	31
+generate-v an-det optimal-adj	143
+generate-v an-det optimize-v	39
+generate-v an-det output-n	43
+generate-v an-det s-n	91
+generate-v and-c analyse-v	61
+generate-v and-c analyze-v	124
+generate-v and-c animate-v	24
+generate-v and-c apply-v	39
+generate-v and-c be-v	24
+generate-v and-c characterize-v	40
+generate-v model-n an-det optimal-adj	23
